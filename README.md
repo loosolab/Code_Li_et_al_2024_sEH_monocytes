@@ -1,6 +1,6 @@
 # Code_Li_et_al_2024_sEH_monocytes
 
-[![DOI](https://zenodo.org/badge/627319900.svg)](https://zenodo.org/badge/latestdoi/627319900)
+[![DOI](https://zenodo.org/badge/10.5281/zenodo.7248506.svg)](https://zenodo.org/doi/10.5281/zenodo.7248506)
 
 TITLE:
 A regulatory loop involving the cytochrome P450-soluble epoxide hydrolase axis and TGF-beta signaling 
