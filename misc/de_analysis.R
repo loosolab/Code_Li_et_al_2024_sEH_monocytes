@@ -1,4 +1,4 @@
-ibrary(DESeq2)
+library(DESeq2)
 options(bitmapType='cairo')
 
 data = read.table("counts.matrix", header=T, row.names=1, com='', sep="\t", quote="", check.names=F)
